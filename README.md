@@ -4,7 +4,7 @@ A simple project to demonstrate the use of `terraform-bundle`. This is a tool th
 
 The bundles can be used in Terraform enterprise following [Administration: Managing Terraform Versions](https://www.terraform.io/docs/enterprise/admin/resources.html#managing-terraform-versions).
 
-The repository includes a Vagrant project that can be used to tun the `terraform-bundle` tool.
+The repository includes a Vagrant project that can be used to run the `terraform-bundle` tool.
 
 ## Prerequisites
 
